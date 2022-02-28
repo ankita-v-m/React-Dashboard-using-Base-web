@@ -27,7 +27,7 @@ const DashboardContent = () => {
             alignItems: 'center',
             justifyContent: 'space-between',
         })}>
-            <Label2>All tickets</Label2>
+            <Label2>Situation by Region, Country, Territory & Area</Label2>
             <div className={css({
                 display: 'flex',
                 alignItems: 'center',

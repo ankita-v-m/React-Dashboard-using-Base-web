@@ -33,7 +33,7 @@ export const tableTitles = ["Name", "Cases - cumulative total", "Cases - newly r
 
 export const data=[
     [
-      "United States of America",
+      "USA",
       "78,050,838",
       "529,249",
       "935,093",
@@ -61,7 +61,7 @@ export const data=[
       "1,554"
     ],
     [
-      "The United Kingdom",
+      "UK",
       "18,773,890",
       "274,106",
       "161,104",
